@@ -23,12 +23,10 @@ June 16th, 2015
 [exampleproject][example_project]
 
 **Address:**  
-Line 1  
-Line 2  
-Line 3
+Lexington, Kentucky
 
 **Phone:**  
-+00 (1) 22 33 44 55
++01 (859) 699 6278
 
 ## Description
 
