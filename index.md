@@ -20,7 +20,7 @@ June 16th, 2015
 [Skype](callto:companyskypename)-->
 
 **Releases:**  
-[exampleproject][example_project]
+[Daydream Blue][example_project]
 
 **Address:**  
 Lexington, Kentucky
@@ -42,7 +42,7 @@ RalphVR is the result of their effort.  And RalphVR’s mission is to make peopl
 
 ## Projects
 
-* [exampleproject][example_project]
+* [aydream Blue][example_project]
 
 ## Videos
 
