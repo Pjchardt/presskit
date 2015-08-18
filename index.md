@@ -135,7 +135,7 @@ Another of these. See [here](https://link)
 
 <!--- Social -->
 
-[twitter]: https://twitter.com/companyname
+[twitter]: https://twitter.com/ralphinvr
 [facebook]: https://facebook.com/companyname
 [skype]: callto:companyskypename
 
