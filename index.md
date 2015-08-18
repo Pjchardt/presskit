@@ -137,4 +137,4 @@ Another of these. See [here](https://link)
 
 <!--- Projects  -->
 
-[example_project]: projects/edaydreamblue/
+[example_project]: projects/daydreamblue/
