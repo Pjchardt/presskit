@@ -42,7 +42,7 @@ RalphVR is the result of their effort.  And RalphVR’s mission is to make peopl
 
 ## Projects
 
-* [aydream Blue][example_project]
+* [Daydream Blue][example_project]
 
 ## Videos
 
