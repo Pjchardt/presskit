@@ -9,7 +9,7 @@ RalphVR
 June 16th, 2015
 
 **Website:**  
-[ralphvr.com][homepage]
+[www.ralphvr.com][homepage]
 
 **Press / Business contact:**  
 [richie@ralphvr.com][contact]
