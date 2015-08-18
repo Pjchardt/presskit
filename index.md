@@ -32,7 +32,7 @@ Line 3
 
 ## Description
 
-Stuff about the studio. Talk about yourselves in the third person!
+RalphVR creates Virtual Worlds to help people smile.
 
 ## History
 
