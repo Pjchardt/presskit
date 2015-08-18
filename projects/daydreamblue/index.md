@@ -49,7 +49,7 @@ Because in a dream, anything is possible.
 
 ## Videos
 
-Demo video from the Oculus Mobile VR Jam! [Youtube](https://youtu.be/QpPwqVy6j10 "Jam Prototype Video")
+Demo video from the Oculus Mobile VR Jam! [Youtube](https://www.youtube.com/watch?v=QpPwqVy6j10 "Jam Prototype Video")
 
 <iframe src="//www.youtube.com/embed/QpPwqVy6j10" frameborder="0" allowfullscreen></iframe>
 
@@ -129,11 +129,11 @@ Another of these. See [here](https://link)
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
-[homepage]: http://companydomain.com "Company Name"
+[homepage]: http://ralphvr.com "RalphVR"
 
-[contact]: mailto:press-contact@company.com
+[contact]: mailto:richie@ralphvr.com
 
 <!--- Social -->
 
-[twitter]: https://twitter.com/companyname
+[twitter]: https://twitter.com/ralphinvr
 [facebook]: https://facebook.com/companyname
