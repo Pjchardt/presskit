@@ -9,15 +9,15 @@ RalphVR
 June 16th, 2015
 
 **Website:**  
-[companydomain.com][homepage]
+[RalphVR.com][homepage]
 
 **Press / Business contact:**  
 [press-contact@company.com][contact]
 
 **Social:**  
-[twitter.com/companyname][twitter]  
-[facebook.com/companyname][facebook]  
-[Skype](callto:companyskypename)
+[twitter.com/ralphinvr][twitter]  
+<!--[facebook.com/companyname][facebook]
+[Skype](callto:companyskypename)-->
 
 **Releases:**  
 [exampleproject][example_project]
