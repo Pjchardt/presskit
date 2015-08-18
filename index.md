@@ -9,13 +9,13 @@ RalphVR
 June 16th, 2015
 
 **Website:**  
-[www.ralphvr.com][homepage]
+[ralphvr.com]
 
 **Press / Business contact:**  
 [richie@ralphvr.com][contact]
 
 **Social:**  
-[twitter.com/companyname][twitter]  
+[twitter.com/ralphinvr][twitter]  
 [facebook.com/companyname][facebook]  
 [Skype](callto:companyskypename)
 
