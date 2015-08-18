@@ -9,13 +9,13 @@ RalphVR
 June 16th, 2015
 
 **Website:**  
-[ralphvr.com][homepage]
+[companydomain.com][homepage]
 
 **Press / Business contact:**  
-[richie@ralphvr.com][contact]
+[press-contact@company.com][contact]
 
 **Social:**  
-[twitter.com/ralphinvr][twitter]  
+[twitter.com/companyname][twitter]  
 [facebook.com/companyname][facebook]  
 [Skype](callto:companyskypename)
 
@@ -38,10 +38,11 @@ Stuff about the studio. Talk about yourselves in the third person!
 
 ### Beginning
 
-Richie Hoagland and Shea Rembold founded RalphVR after Daydream Blue, their first virtual reality game, won Gold Prize in the 2015 Oculus Mobile VR Jam.  Wishing to pivot into the still-developing VR market, they  set out to build a new company focused on virtual reality and deep gameplay experience.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-RalphVR is the result of their effort.  And RalphVR’s mission is to make people happy.    
+### Second subhed if you want it!
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Projects
 
@@ -128,7 +129,7 @@ Another of these. See [here](https://link)
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
-[homepage]: http://companydomain.com "Company Name"
+[homepage]: http://ralphvr.com "RalphVR"
 
 [contact]: mailto:press-contact@company.com
 
