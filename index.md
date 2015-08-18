@@ -3,16 +3,16 @@
 ## Factsheet
 
 **Developer:**  
-Company Name
+RalphVR
 
 **Founding date:**  
-January 1, 2015
+June 16th, 2015
 
 **Website:**  
-[companydomain.com][homepage]
+[ralphvr.com][homepage]
 
 **Press / Business contact:**  
-[press-contact@company.com][contact]
+[richie@ralphvr.com][contact]
 
 **Social:**  
 [twitter.com/companyname][twitter]  
