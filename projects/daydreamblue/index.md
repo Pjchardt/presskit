@@ -3,46 +3,55 @@
 ## Factsheet
 
 **Developer:**  
-Company Name
+RalphVR
 
 **Release Date:**  
-January 1, 20XX
+TBA
 
 **Platforms:**  
-[Windows / Mac / Linux](http://link)  
-[PS4](http://link)  
-[Xbox One](http://link)  
-[PlayStation Vita](http://link)  
-[Nintendo DS](http://link)  
+[GearVR](http://link)  
+  
 
 **Website:**  
-[companydomain.com/exampleproject](http://companydomain.com/exampleproject)
+<!--[companydomain.com/exampleproject](http://companydomain.com/exampleproject)-->
 
 **Regular Price:**  
-USD	$100  
-EU	€100
+TBA
 
 ## Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Daydream Blue is a dreamlike valley full of games and surprises supporting both solo and online play.
 
 ## History
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A lake and a robot for you and your friends…
+ 
+Such was the original idea for Daydream Blue.  It was 2015, and Richie Hoagland had a problem:  His new VR game wasn’t integrating the new technology as he’d like.  Frustrated, he longed to lie down in a sparse field, look up at the sky, and think--but he was trapped in an urban office.  So he did what any true developer would do...he built a green valley in virtual reality.  He put a sky overhead.  Then he strapped in, closed his eyes, and drifted away.  
+ 
+‘This is it,’ he thought.  ‘This is the feeling of happiness I want to give others.”   
+
+They called it Daydream Blue.  
+
+Daydream Blue is a virtual world, a place where you can customize yourself and your place in it.  It’s a space to be explored and discovered either alone or with friends. A place to build a fire and catch some fish.  Or play some golf.  Play fetch with your robot.  Throw sticks at your friends.  Or just wish the clouds out of the sky.
+
+Because in a dream, anything is possible.   
 
 ## Features
 
-* Cool things.
-* Cool things.
-* Cool things.
-* Cool things.
-* Cool things.
+*Online Multiplayer with /*In-World Voice Chat
+*Craft new items, accessories and games
+*Form and create a malleable world  
+*Immersive time of day, wildlife, and more
+*Explore an ever-chaining environment
+*Fine tools, build, and play games and simulations with friends
+
+/*In-World:  Multiplayer chat is spacialized to each avatar’s mouth thorugh the Oculus Audio SDK, which make friends and family wound like their right next to you.  
 
 ## Videos
 
-Not a trailer, but here's some of the music! [Youtube](http://www.youtube.com/watch?v=hxQAUADFCzw "Motohiro Kawashima live")
+Demo video from the Oculus Mobile VR Jam! [Youtube](https://youtu.be/QpPwqVy6j10 "Jam Prototype Video")
 
-<iframe src="//www.youtube.com/embed/hxQAUADFCzw" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/QpPwqVy6j10" frameborder="0" allowfullscreen></iframe>
 
 ## Images
 
