@@ -46,14 +46,11 @@ RalphVR is the result of their effort.  And RalphVR’s mission is to make peopl
 
 ## Videos
 
-We have a trailer and this is it. [And this is what we called the link](https://www.youtube.com/watch?v=WB0yAm6iXEw "Gunhouse Trailer on Youtube")  
+Learn about how we drove across the US to follow our dreams. [Video](https://www.youtube.com/watch?v=5bHpfxXK8b8 "RalphVR heads to California")  
 
-<iframe src="//www.youtube.com/embed/WB0yAm6iXEw" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/watch?v=5bHpfxXK8b8" frameborder="0" allowfullscreen></iframe>
 
 <br>
-
-This is some music from our games! [Yeah, you like it I think](http://www.youtube.com/watch?v=hxQAUADFCzw "Motohiro Kawashima live")
-<iframe src="//www.youtube.com/embed/hxQAUADFCzw" frameborder="0" allowfullscreen></iframe>
 
 ## Images
 
@@ -63,6 +60,8 @@ download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip 
 [![image_02_name](assets/images/image_02.png)](assets/images/image_02.png)
 [![image_03_name](assets/images/image_03.png)](assets/images/image_03.png)
 [![image_04_name](assets/images/image_04.png)](assets/images/image_04.png)
+[![image_04_name](assets/images/image_05.png)](assets/images/image_05.png)
+[![image_04_name](assets/images/image_06.png)](assets/images/image_06.png)
 
 ## Logo & Icon
 
@@ -73,10 +72,11 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 ## Awards & Recognition
 
-> * "Winner, XX awards." - *game name, December 13, 2013*
-> * "Nominee, YY awards." - *game name, December 13, 2013*
+>*"Gold Prize Winner, 2015 Oculus MobileVR GameJam." - Daydream Blue, June 4, 2015 
+>*"2015 Participant in BoostVC Tech Accelerator" - August 3, 2015                                     
+>*"Indie Prize Showcase, 2015 Casual Connect." - Daydream Blue, August 11, 2015
 
-## Selected Articles
+<!--## Selected Articles
 
 > * "Quote quote quote."  
 -- *Person Name, [Website](http://www.website.com/)*
@@ -92,21 +92,21 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 Link to your company, or some affiliate. Located [here](https://link)
 
 **Company Link #2**  
-Another of these. See [here](https://link)
+Another of these. See [here](https://link)-->
 
 ## Team & Repeating Collaborator
 
-**Probably the founder's name goes here**  
-[Founder](https://link)
+**Richie Hoagland**  
+[Co-Founder, CEO](https://link)
 
-**Another person's name**  
-[developer maybe](https://link)
+**Shea Rembold**  
+[Co-founder, CTO](https://link)
 
-**Another person, show em if you've got em**  
-[artist, who knows](https://link)
+**Jeff Hoagland**  
+[Business and Creative Development](https://link)
 
-**A fourth person**  
-[music, sound?](https://link)
+**Shawn Hibbler**  
+[Musician and Sound FX](https://link)
 
 ## Contact
 
@@ -114,20 +114,20 @@ Another of these. See [here](https://link)
 [press-contact@company.com][contact]
 
 **Twitter**  
-[twitter.com/companyname][twitter]
+[twitter.com/ralphinvr][twitter]
 
-** Facebook**  
-[facebook.com/companyname][facebook]
+<!--** Facebook**  
+[facebook.com/companyname][facebook]-->
 
 **Web**  
-[companydomain.com][homepage]
+[ralphinvr.com][homepage]
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
 [homepage]: http://ralphvr.com "RalphVR"
 
-[contact]: mailto:press-contact@company.com
+[contact]: mailto:richie@ralphvr.com
 
 <!--- Social -->
 
