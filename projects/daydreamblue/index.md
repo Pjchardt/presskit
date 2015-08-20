@@ -102,19 +102,19 @@ Link to Company Site [ralphvr.com](https://www.ralphvr.com)
 ## Example Project Credits
 
 **Richie Hoagland*  
-[Design](https://link)
+Design
 
 **Shea Rembold**  
-[Developer](https://link)
+Developer
 
 **Jeff Hoagland**  
-[Business and Creative Development](https://link)
+Business and Creative Development
 
 **Shawn Hibbler**  
-[Musician and Sound FX](https://link)
+Musician and Sound FX
 
 **Amanda Wallace**  
-[Concept Art](https://link)
+Concept Art
 
 ## Contact
 
