@@ -1,6 +1,6 @@
 # ![RalphVR](assets/images/header.png)
 
-## Factsheet 
+## Factsheet
 
 **Developer:**  
 RalphVR
@@ -122,7 +122,7 @@ Musician and Sound FX
 [facebook.com/companyname][facebook]-->
 
 **Web**  
-[ralphinvr.com][homepage]
+[RalphVR][homepage]
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
