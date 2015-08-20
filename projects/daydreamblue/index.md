@@ -1,4 +1,4 @@
-# ![Game Name](assets/images/header.png)
+# ![Daydream Blue](assets/images/header.jpg)
 
 ## Factsheet
 
