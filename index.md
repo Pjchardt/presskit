@@ -1,6 +1,6 @@
 # ![RalphVR](assets/images/header.png)
 
-## Factsheet ##
+## Factsheet 
 
 **Developer:**  
 RalphVR
