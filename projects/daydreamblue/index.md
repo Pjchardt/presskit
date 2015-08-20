@@ -121,10 +121,10 @@ Link to Company Site [ralphvr.com](https://www.ralphvr.com)
 ## Contact
 
 **Inquiries**  
-[press-contact@company.com][contact]
+[richie@ralphvr.com][contact]
 
 **Twitter**  
-[twitter.com/companyname][twitter]
+[twitter.com/ralphinvr][twitter]
 
 <!--** Facebook**  
 [facebook.com/companyname][facebook]-->
