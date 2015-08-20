@@ -12,8 +12,8 @@ TBA
 [GearVR](http://link)  
   
 
-**Website:**  
-<!--[companydomain.com/exampleproject](http://companydomain.com/exampleproject)-->
+<!--**Website:**  
+[companydomain.com/exampleproject](http://companydomain.com/exampleproject)-->
 
 **Regular Price:**  
 TBA
