@@ -72,11 +72,11 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 ## Awards & Recognition
 
->*"Gold Prize Winner, 2015 Oculus MobileVR GameJam." - Daydream Blue, June 4, 2015
+*>"Gold Prize Winner, 2015 Oculus MobileVR GameJam." - Daydream Blue, June 4, 2015
 
->*"2015 Participant in BoostVC Tech Accelerator" - August 3, 2015
+*>"2015 Participant in BoostVC Tech Accelerator" - August 3, 2015
 
->*"Indie Prize Showcase, 2015 Casual Connect." - Daydream Blue, August 11, 2015
+*>"Indie Prize Showcase, 2015 Casual Connect." - Daydream Blue, August 11, 2015
 
 <!--## Selected Articles
 
