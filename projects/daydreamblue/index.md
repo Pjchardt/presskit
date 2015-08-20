@@ -135,7 +135,7 @@ Link to Company Site [ralphvr.com](https://www.ralphvr.com)
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
-[homepage]: http://ralphvr.com "RalphVR"
+[homepage]: http://www.ralphvr.com "RalphVR"
 
 [contact]: mailto:richie@ralphvr.com
 
