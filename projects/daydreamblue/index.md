@@ -133,7 +133,7 @@ Link to Company Site [ralphvr.com](https://www.ralphvr.com)
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
-[homepage]: daydreamblue "Daydream Blue"
+[homepage]: http://ralphvr.com "RalphVR"
 
 [contact]: mailto:richie@ralphvr.com
 
