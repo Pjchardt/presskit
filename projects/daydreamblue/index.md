@@ -49,9 +49,15 @@ Because in a dream, anything is possible.
 
 ## Videos
 
-Demo video from the Oculus Mobile VR Jam! [Youtube](https://www.youtube.com/watch?v=QpPwqVy6j10 "Jam Prototype Video")
+Demo video from the Oculus Mobile VR Jam! [Youtube](https://www.youtube.com/watch?v=QpPwqVy6j10"Jam Prototype Video")
 
 <iframe src="//www.youtube.com/embed/QpPwqVy6j10" frameborder="0" allowfullscreen></iframe>
+
+<br>
+
+Demo video from the Oculus Mobile VR Jam! [Youtube](https://youtu.be/uEnzJYHbgAg"Jam Prototype Video")
+
+<iframe src="//www.youtube.com/embed/uEnzJYHbgAg" frameborder="0" allowfullscreen></iframe>
 
 ## Images
 
@@ -71,8 +77,8 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 ## Awards & Recognition
 
-> * "Winner, XX awards." - *December 13, 2013*
-> * "Nominee, YY awards." - *December 13, 2013*
+ > * "Gold Prize Winner, 2015 Oculus MobileVR GameJam." - June 4, 2015
+ > * "Indie Prize Showcase, 2015 Casual Connect." - August 11, 2015
 
 ## Selected Articles
 
@@ -82,35 +88,35 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 > * "More quotes. Make sure to quote people properly! No trimming!"  
 -- *Person name, [Site](http://geocities.blog.com/)*
 
-## Additional Links
+<!--## Additional Links
 
 **Company Link #1**  
 A link to something related can go [here](https://link)
 
 **Company Link #2**  
-Another link like this goes [here](https://link) if you want.
+Another link like this goes [here](https://link) if you want.-->
 
 ## About Company
 
 **Company Link #1**  
-Link to your company, or some affiliate. Located [here](https://link)
-
-**Company Link #2**  
-Another of these. See [here](https://link)
+Link to Company Site [ralphvr.com](https://www.ralphvr.com)
 
 ## Example Project Credits
 
-**Probably the founder's name goes here**  
-[Founder](https://link)
+**Richie Hoagland*  
+[Design](https://link)
 
-**Another person's name**  
-[developer maybe](https://link)
+**Shea Rembold**  
+[Developer](https://link)
 
-**Another person, show em if you've got em**  
-[artist, who knows](https://link)
+**Jeff Hoagland**  
+[Business and Creative Development](https://link)
 
-**A fourth person**  
-[music, sound?](https://link)
+**Shawn Hibbler**  
+[Musician and Sound FX](https://link)
+
+**Amanda Wallace**  
+[Concept Art](https://link)
 
 ## Contact
 
@@ -120,11 +126,11 @@ Another of these. See [here](https://link)
 **Twitter**  
 [twitter.com/companyname][twitter]
 
-** Facebook**  
-[facebook.com/companyname][facebook]
+<!--** Facebook**  
+[facebook.com/companyname][facebook]-->
 
 **Web**  
-[companydomain.com][homepage]
+[ralphvr.com][homepage]
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
