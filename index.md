@@ -108,7 +108,7 @@ Co-founder, CTO
 Business and Creative Development
 
 **Shawn Hibbler**  
-Musician and Sound FX<!--(https://link)-->
+Musician and Sound FX
 
 ## Contact
 
