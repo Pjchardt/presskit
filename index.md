@@ -46,9 +46,9 @@ RalphVR is the result of their effort.  And RalphVR’s mission is to make peopl
 
 ## Videos
 
-Learn about how we drove across the US to follow our dreams. [Video](https://www.youtube.com/watch?v=5bHpfxXK8b8 "RalphVR heads to California")  
+Learn about how we drove across the US to follow our dreams. [Video](https://youtu.be/5bHpfxXK8b8 "RalphVR heads to California")  
 
-<iframe src="//www.youtube.com/watch?v=5bHpfxXK8b8" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/5bHpfxXK8b8" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
