@@ -38,14 +38,12 @@ Because in a dream, anything is possible.
 
 ## Features
 
-> * Online Multiplayer with /*In-World Voice Chat
+> * Online Multiplayer with Voice Chat from Avatar location
 > * Craft new items, accessories and games
 > * Form and create a malleable world  
 > * Immersive time of day, wildlife, and more
 > * Explore an ever-chaining environment
 > * Fine tools, build, and play games and simulations with friends
-
-/*In-World:  Multiplayer chat is spacialized to each avatar’s mouth thorugh the Oculus Audio SDK, which make friends and family wound like their right next to you.  
 
 ## Videos
 
