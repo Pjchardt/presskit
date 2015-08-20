@@ -12,7 +12,7 @@ June 16th, 2015
 [RalphVR.com][homepage]
 
 **Press / Business contact:**  
-[press-contact@company.com][contact]
+[richie@ralphvr.com][contact]
 
 **Social:**  
 [twitter.com/ralphinvr][twitter]  
@@ -20,7 +20,7 @@ June 16th, 2015
 [Skype](callto:companyskypename)-->
 
 **Releases:**  
-[Daydream Blue][example_project]
+[Daydream Blue][daydreamblue_project]
 
 **Address:**  
 Lexington, Kentucky
@@ -42,7 +42,7 @@ RalphVR is the result of their effort.  And RalphVR’s mission is to make peopl
 
 ## Projects
 
-* [Daydream Blue][example_project]
+* [Daydream Blue][daydreamblue_project]
 
 ## Videos
 
@@ -139,4 +139,4 @@ Another of these. See [here](https://link)-->
 
 <!--- Projects  -->
 
-[example_project]: projects/daydreamblue/
+[daydreamblue_project]: projects/daydreamblue/
