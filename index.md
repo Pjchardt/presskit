@@ -99,16 +99,16 @@ Another of these. See [here](https://link)-->
 ## Team & Repeating Collaborator
 
 **Richie Hoagland**  
-[Co-Founder, CEO](https://link)
+Co-Founder, CEO
 
 **Shea Rembold**  
-[Co-founder, CTO](https://link)
+Co-founder, CTO
 
 **Jeff Hoagland**  
-[Business and Creative Development](https://link)
+Business and Creative Development
 
 **Shawn Hibbler**  
-[Musician and Sound FX](https://link)
+Musician and Sound FX<!--(https://link)-->
 
 ## Contact
 
