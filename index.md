@@ -1,4 +1,4 @@
-# ![Company Name](assets/images/header.png)
+# ![RalphVR](assets/images/header.png)
 
 ## Factsheet
 
