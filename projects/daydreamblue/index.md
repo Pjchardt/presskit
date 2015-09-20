@@ -103,7 +103,7 @@ Another link like this goes [here](https://link) if you want.-->
 
 ## Project Credits
 
-**Richie Hoagland**
+**Richie Hoagland**   
 Design
 
 **Shea Rembold**  
