@@ -20,7 +20,7 @@ $9.99
 
 ## Description
 
-Daydream Blue is a dreamlike valley full of games and surprises supporting both solo and online play.
+Daydream Blue is a dreamlike valley full of games and surprises.
 
 ## History
 
@@ -100,8 +100,8 @@ Another link like this goes [here](https://link) if you want.-->
 
 ## About Company
 
-**Company Link #1**  
-Link to Company Site [ralphvr.com](https://www.ralphvr.com)
+**RalphVR Link**  
+[ralphvr.com](https://www.ralphvr.com)
 
 ## Example Project Credits
 
@@ -112,10 +112,10 @@ Design
 Developer
 
 **Jeff Hoagland**  
-Business and Creative Development
+Producer
 
 **Shawn Hibbler**  
-Musician and Sound FX
+Musician
 
 **Amanda Wallace**  
 Concept Art
