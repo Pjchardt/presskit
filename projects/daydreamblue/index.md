@@ -103,9 +103,9 @@ Another link like this goes [here](https://link) if you want.-->
 **RalphVR Link**  
 [ralphvr.com](https://www.ralphvr.com)
 
-## Example Project Credits
+## Project Credits
 
-**Richie Hoagland*  
+**Richie Hoagland**
 Design
 
 **Shea Rembold**  
