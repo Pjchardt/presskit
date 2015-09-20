@@ -12,8 +12,8 @@ TBA
 [GearVR](http://link)  
   
 
-<!--**Website:**  
-[companydomain.com/exampleproject](http://companydomain.com/exampleproject)-->
+**Website:**  
+[www.daydreamblue.com](http://daydreamblue.com)
 
 **Regular Price:**  
 TBA
@@ -38,12 +38,15 @@ Because in a dream, anything is possible.
 
 ## Features
 
-> * Online Multiplayer with Voice Chat from Avatar location
+<!--> * Online Multiplayer with Voice Chat from Avatar location-->
 > * Craft new items, accessories and games
+> * Games scattered about the world
+> * Light RPG elements and daily procedural quests mean great replayabilty
+> * Two updates a month, open development with community input
 > * Form and create a malleable world  
 > * Immersive time of day, wildlife, and more
 > * Explore an ever-chaining environment
-> * Fine tools, build, and play games and simulations with friends
+<!--> * Find tools, build, and play games and simulations with friends-->
 
 ## Videos
 
@@ -80,8 +83,8 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 ## Selected Articles
 
-> * "Put a quote here, from someone who talked about your game."  
--- *Person Name, [Website](http://www.website.com/)*
+> * "Daydream Blue was one of eight projects in the jam to get a perfect score from me."  
+-- *Brad Herman, [Website](http://www.bradherman.com/home/hitchhikers-guide-to-the-metaverse/theoculusmobilevrjam2015-thoughtsfromajudge/)*
 
 > * "More quotes. Make sure to quote people properly! No trimming!"  
 -- *Person name, [Site](http://geocities.blog.com/)*
