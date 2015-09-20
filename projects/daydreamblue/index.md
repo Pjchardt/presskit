@@ -6,7 +6,7 @@
 RalphVR
 
 **Release Date:**  
-TBA
+Septemebr 2015
 
 **Platforms:**  
 [GearVR](http://link)  
@@ -16,7 +16,7 @@ TBA
 [www.daydreamblue.com](http://daydreamblue.com)
 
 **Regular Price:**  
-TBA
+$9.99
 
 ## Description
 
@@ -86,8 +86,8 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 > * "Daydream Blue was one of eight projects in the jam to get a perfect score from me."  
 -- *Brad Herman, [Website](http://www.bradherman.com/home/hitchhikers-guide-to-the-metaverse/theoculusmobilevrjam2015-thoughtsfromajudge/)*
 
-> * "More quotes. Make sure to quote people properly! No trimming!"  
--- *Person name, [Site](http://geocities.blog.com/)*
+> * "I love this little game, and cant wait to see what else the developer adds!"  
+-- *GearVR Mini Game Reviews, [Wbsite](http://gearvrreviews.blogspot.com/2015/05/gearvr-jam-2015-appexperiences-my.html)*
 
 <!--## Additional Links
 
