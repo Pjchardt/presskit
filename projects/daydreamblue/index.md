@@ -32,7 +32,7 @@ Such was the original idea for Daydream Blue.  It was 2015, and Richie Hoagland 
 
 They called it Daydream Blue.  
 
-Daydream Blue is a virtual world, a place where you can customize yourself and your place in it.  It’s a space to be explored and discovered either alone or with friends. A place to build a fire and catch some fish.  Or play some golf.  Play fetch with your robot.  Throw sticks at your friends.  Or just wish the clouds out of the sky.
+Daydream Blue is a virtual world, a place where you can customize yourself and your place in it.  It’s a space to be explored and discovered either alone or with friends. A place to build a fire and catch some fish.  Or play some golf.  Play fetch with your robot. Or just wish the clouds out of the sky.
 
 Because in a dream, anything is possible.   
 
