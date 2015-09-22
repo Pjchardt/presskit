@@ -39,12 +39,13 @@ Because in a dream, anything is possible.
 ## Features
 
 > * Craft new items, accessories and games
-> * Games scattered about the world
-> * Light RPG elements and daily procedural quests mean great replayabilty
+> * Discover mini-games and surprises
+> * Perform daily quests 
 > * Two updates a month, open development with community input
 > * Form and create a malleable world  
-> * Immersive time of day, wildlife, and more
-> * Explore an ever-chaining environment
+> * Enjoy immersive time of day, wildlife, and more
+> * Use the experience system to level up and buy new items
+
 
 ## Videos
 
