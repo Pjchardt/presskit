@@ -6,7 +6,7 @@
 RalphVR
 
 **Release Date:**  
-Septemebr 2015
+Septemebr 24th, 2015
 
 **Platforms:**  
 GearVR 
