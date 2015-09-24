@@ -9,7 +9,7 @@ RalphVR
 Septemebr 2015
 
 **Platforms:**  
-[GearVR](http://link)  
+GearVR 
   
 
 **Website:**  
@@ -51,7 +51,7 @@ Because in a dream, anything is possible.
 
 Latest trailer for Daydream Blue [youtube](https://youtu.be/hKVtW93JQ1g)
 
-<iframe src="https://www.youtube.com/watch?v=hKVtW93JQ1g" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/hKVtW93JQ1g" frameborder="0" allowfullscreen></iframe>
 
 <!--<br>
 
