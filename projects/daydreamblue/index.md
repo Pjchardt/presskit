@@ -1,4 +1,4 @@
-# ![Daydream Blue](assets/images/header.jpg)
+# ![Daydream Blue](assets/images/header.png)
 
 ## Factsheet
 
