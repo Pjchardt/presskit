@@ -49,15 +49,15 @@ Because in a dream, anything is possible.
 
 ## Videos
 
-Demo video from the Oculus Mobile VR Jam! [Youtube](https://www.youtube.com/watch?v=QpPwqVy6j10"Jam Prototype Video")
+Latest trailer for Daydream Blue [youtube](https://youtu.be/hKVtW93JQ1g)
 
 <iframe src="//www.youtube.com/embed/QpPwqVy6j10" frameborder="0" allowfullscreen></iframe>
 
-<br>
+<!--<br>
 
-Demo video from the Oculus Mobile VR Jam! [Youtube](https://youtu.be/uEnzJYHbgAg"Jam Prototype Video")
+Daydream Blue at Casual Connect! [Youtube](https://youtu.be/uEnzJYHbgAg"Jam Prototype Video")
 
-<iframe src="//www.youtube.com/embed/uEnzJYHbgAg" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/uEnzJYHbgAg" frameborder="0" allowfullscreen></iframe>-->
 
 ## Images
 
