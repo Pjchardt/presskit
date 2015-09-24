@@ -86,7 +86,7 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 > * "Daydream Blue was one of eight projects in the jam to get a perfect score from me."  
 -- *Brad Herman, [Website](http://www.bradherman.com/home/hitchhikers-guide-to-the-metaverse/theoculusmobilevrjam2015-thoughtsfromajudge/)*
 
-> * "I love this little game, and cant wait to see what else the developer adds!"  
+> * "I love this little game, and can't wait to see what else the developer adds!"  
 -- *GearVR Mini Game Reviews, [Website](http://gearvrreviews.blogspot.com/2015/05/gearvr-jam-2015-appexperiences-my.html)*
 
 <!--## Additional Links
