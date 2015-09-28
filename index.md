@@ -36,9 +36,13 @@ RalphVR creates Virtual Worlds to help people smile.
 
 ### Beginning
 
-Richie Hoagland and Shea Rembold founded RalphVR after Daydream Blue, their first virtual reality game, won Gold Prize in the 2015 Oculus Mobile VR Jam.  Wishing to pivot into the still-developing VR market, they  set out to build a new company focused on virtual reality and deep gameplay experience.
+Richie Hoagland and Shea Rembold founded RalphVR after Daydream Blue, their first virtual reality game, won Gold Prize in the 2015 Oculus Mobile VR Jam.  Shortly after the jam, Richie and Shea drove across the USA from Kentucky to California to join the Boost VC business accelerator program in Silicon Valley. 
 
-RalphVR is the result of their effort.  And RalphVR’s mission is to make people happy.    
+On September 25th, 2015--the Friday of Oculus Connect 2--RalphVR launched Daydream Blue on the Oculus Store for GearVR. 
+
+Richie and Shea continue to follow their dream of building a new company focused on virtual reality and emotionally gratifying gameplay experiences.
+
+RalphVR is the result of their effort.  And RalphVR’s mission is to make people happy.   
 
 ## Projects
 
