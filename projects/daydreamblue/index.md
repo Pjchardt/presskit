@@ -127,8 +127,8 @@ Concept Art
 **Twitter**  
 [twitter.com/ralphinvr][twitter]
 
-<!--** Facebook**  
-[facebook.com/companyname][facebook]-->
+** Facebook**  
+[facebook.com/daydreamblue][facebook]
 
 **Web**  
 [ralphvr.com][homepage]
