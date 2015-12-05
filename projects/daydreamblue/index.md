@@ -20,7 +20,7 @@ $9.99
 
 ## Description
 
-Daydream Blue is a dreamlike valley full of games and surprises.
+Enter a magical valley full of mystery, surprise, and an awesome robot buddy in the Gold Winner of the Oculus Mobile VR Jam. You will discover recipes to craft exciting new items, frantically shoot UFO invaders at night, and play fetch with your adorable robot pal! But don’t go alone. Connect with your friends online in the first mutliplayer game with voice chat to ever be released on GearVR! and play games together, goof off around the fire, and show off your customized avatar. 
 
 ## History
 
