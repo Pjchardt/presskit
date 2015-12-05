@@ -90,8 +90,8 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 > * "I love this little game, and can't wait to see what else the developer adds!"  
 -- *GearVR Mini Game Reviews, [Website](http://gearvrreviews.blogspot.com/2015/05/gearvr-jam-2015-appexperiences-my.html)*
 
-> * "This is a game that rewards you for your curiosity"
--- *Best Samsung Gear VR apps and games - Trusted Reviews, [Website](http://www.trustedreviews.com/best-samsung-gear-vr-apps_round-up_Page-14)*
+> * "This is a game that rewards you for your curiosity" Daydram BLue named as one of Best Samsung Gear VR apps and games
+-- *Trusted Reviews, [Website](http://www.trustedreviews.com/best-samsung-gear-vr-apps_round-up_Page-14)*
 
 <!--## Additional Links
 
