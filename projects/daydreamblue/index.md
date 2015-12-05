@@ -80,6 +80,7 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
  > * "Gold Prize Winner, 2015 Oculus MobileVR GameJam." - June 4, 2015
  > * "Indie Prize Showcase, 2015 Casual Connect." - August 11, 2015
+ > * "Smithsonian Arcade, 2016, Washington DC." - January 16th, 2016
 
 ## Selected Articles
 
@@ -88,6 +89,9 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 > * "I love this little game, and can't wait to see what else the developer adds!"  
 -- *GearVR Mini Game Reviews, [Website](http://gearvrreviews.blogspot.com/2015/05/gearvr-jam-2015-appexperiences-my.html)*
+
+> * "This is a game that rewards you for your curiosity"
+-- *Best Samsung Gear VR apps and games - Trusted Reviews, [Website](http://www.trustedreviews.com/best-samsung-gear-vr-apps_round-up_Page-14)*
 
 <!--## Additional Links
 
