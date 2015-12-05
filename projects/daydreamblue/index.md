@@ -67,7 +67,10 @@ download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip 
 [![image_02_name](assets/images/Image_02.png)](assets/images/Image_02.png)
 [![image_03_name](assets/images/Image_03.png)](assets/images/Image_03.png)
 [![image_04_name](assets/images/Image_04.png)](assets/images/Image_04.png)
-[![image_04_name](assets/images/Image_05.png)](assets/images/Image_05.png)
+[![image_05_name](assets/images/Image_05.png)](assets/images/Image_05.png)
+[![image_06_name](assets/images/Image_06.png)](assets/images/Image_06.png)
+[![image_07_name](assets/images/Image_07.png)](assets/images/Image_07.png)
+[![image_08_name](assets/images/Image_08.png)](assets/images/Image_08.png)
 
 ## Logo & Icon
 
