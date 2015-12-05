@@ -53,9 +53,15 @@ Latest trailer for Daydream Blue [youtube](https://youtu.be/hKVtW93JQ1g)
 
 <iframe src="https://www.youtube.com/embed/hKVtW93JQ1g" frameborder="0" allowfullscreen></iframe>
 
-<!--<br>
+https://www.youtube.com/watch?v=L8lu7jFlW7Q
 
-Daydream Blue at Casual Connect! [Youtube](https://youtu.be/uEnzJYHbgAg"Jam Prototype Video")
+<br>
+
+Gameplay Video [youtube](https://youtu.be/L8lu7jFlW7Q)
+
+<iframe src="https://www.youtube.com/embed/L8lu7jFlW7Q" frameborder="0" allowfullscreen></iframe>
+
+<!--Daydream Blue at Casual Connect! [Youtube](https://youtu.be/uEnzJYHbgAg"Jam Prototype Video")
 
 <iframe src="//www.youtube.com/embed/uEnzJYHbgAg" frameborder="0" allowfullscreen></iframe>-->
 
