@@ -38,13 +38,13 @@ Because in a dream, anything is possible.
 
 ## Features
 
-> * Craft new items, accessories and games
-> * Discover mini-games and surprises
-> * Perform daily quests 
-> * Two updates a month, open development with community input
-> * Form and create a malleable world  
-> * Enjoy immersive time of day, wildlife, and more
-> * Use the experience system to level up and buy new items
+> * Online Multiplayer with 3D spatialized Voice Chat and Room Invites - First ever on GearVR!
+> * One awesome robot buddy to play with, take care of, and hang out with
+> * AWESOME ROBOT BUDDY AI!!!
+> * Crafting: Discover new items, games, and more!
+> * Change the time of day in a customizable world
+> * Two updates a month, open development with community input 
+> * Immersive 3D spatialized soundscape using Oculus Audio SDK
 
 
 ## Videos
