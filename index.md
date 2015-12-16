@@ -82,15 +82,15 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 
 > * "Indie Prize Showcase, 2015 Casual Connect." - Daydream Blue, August 11, 2015
 
-<!--## Selected Articles
+## Selected Articles
 
-> * "Quote quote quote."  
--- *Person Name, [Website](http://www.website.com/)*
+> * "But their sudden success has been several years in the making."  
+-- *Tom Eblen, [Kentucky.com](http://www.kentucky.com/news/local/news-columns-blogs/tom-eblen/article49623920.html)*
 
 
-> * "More quotes."  
+<!--> * "More quotes."  
 -- *Person name, [Site](http://geocities.blog.com/)*
-
+-->
 
 ## Additional Links
 

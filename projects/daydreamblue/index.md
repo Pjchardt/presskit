@@ -108,13 +108,16 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
 > * "This is a game that rewards you for your curiosity" Daydram BLue named as one of Best Samsung Gear VR apps and games
 -- *Trusted Reviews, [Website](http://www.trustedreviews.com/best-samsung-gear-vr-apps_round-up_Page-14)*
 
-<!--## Additional Links
+> * "Talking With the Creators of the First True Mobile and Social Game, in VR"
+-- *UploadVR, [Website](http://uploadvr.com/i-interviewed-the-creators-of-daydream-blue-in-vr/)*
 
-**Company Link #1**  
-A link to something related can go [here](https://link)
+## Additional Links
 
-**Company Link #2**  
-Another link like this goes [here](https://link) if you want.-->
+**Gamasutra Article about how we streaming Daydream BLue at 60fps**  
+There is currently n solution for 60fps streaming of GearVR games, but we offer up how we do it for Daydream Blue [here](http://gamasutra.com/blogs/RichieHoagland/20151026/257254/How_we_stream_our_GearVR_game_without_impacting_performance.php)
+
+**Gamasutra Article on how we brought online multiplayer and positional voice chat to GearVR**  
+We were the first game on GearVR with online multiplayer and positional voice chat. [here](http://gamasutra.com/blogs/RichieHoagland/20151216/262034/3_biggest_hurdles_faced_in_bringing_online_multiplayer_to_GearVR.php)
 
 ## About Company
 
