@@ -20,21 +20,23 @@ $9.99
 
 ## Description
 
-Enter a magical valley full of mystery, surprise, and an awesome robot buddy in the Gold Winner of the Oculus Mobile VR Jam. You will discover recipes to craft exciting new items, frantically shoot UFO invaders at night, and play fetch with your adorable robot pal! But don’t go alone. Connect with your friends online in the first mutliplayer game with voice chat to ever be released on GearVR! and play games together, goof off around the fire, and show off your customized avatar. 
+Enter a magical valley full of mystery, surprise, and an awesome robot buddy in the Gold Winner of the Oculus Mobile VR Jam. You will discover recipes to craft exciting new items, frantically shoot UFO invaders at night, and play fetch with your adorable robot pal! But don’t go alone. Connect with your friends online in the first multiplayer game with voice chat to ever be released on GearVR! and play games together, goof off around the fire, and show off your customized avatar. 
 
 ## History
 
 A lake and a robot for you and your friends…
  
-Such was the original idea for Daydream Blue.  It was 2015, and Richie Hoagland had a problem:  His new VR game wasn’t integrating the new technology as he’d like.  Frustrated, he longed to lie down in a sparse field, look up at the sky, and think--but he was trapped in an urban office.  So he did what any true developer would do...he built a green valley in virtual reality.  He put a sky overhead.  Then he strapped in, closed his eyes, and drifted away.  
- 
-‘This is it,’ he thought.  ‘This is the feeling of happiness I want to give others.”   
+In early 2015 Richie and Shea started building a game for the Oculus Mobile VR Jam. They were about to both be unemployed, and so they decided to spend the last month of time they would be working together to create one last game. Richie and Shea bet it all on the jam, not to win but to put their hearts into something they were proud of, regardless of the outcome. 
 
-They called it Daydream Blue.  
+For almost a month Shea and Richie developed the core environment and mechanics, preparing for the first milestone in the jam.  But as the first deadline drew cloose, it nagged Richie and Shea that they were not taking advantage of the unique potential of VR. And perhaps more importantly, it just didn't feel like the game they really wanted to develop.
 
-Daydream Blue is a virtual world, a place where you can customize yourself and your place in it.  It’s a space to be explored and discovered either alone or with friends. A place to build a fire and catch some fish.  Or play some golf.  Play fetch with your robot. Or just wish the clouds out of the sky.
+So only days before the first submission, they built a prototype consisting of a grass field and a blue sky. Daydream Blue was born. 
 
-Because in a dream, anything is possible.   
+Richie and Shea barely made the first deadline with one concept art work for their new game. But in the end, they poured their hearts into developing Daydream Blue. The last day of submission, they said goodby and walked out of the office. Shea went out west to travel and Richie spent time looking for work. A month later, and Daydream BLue was named Gold WInner of the Oculus Jam. With $100,000, Shea and Richie were finnaly able to begin work on a full fledged game. 
+
+Daydream Blue is a virtual world, a place where you can customize yourself and your place in it.  It’s a space to be explored and discovered either alone or with friends. A place to build a fire and catch some fish.  Or play some golf.  Play fetch with your robot. Or just wish the clouds out of the sky. THe game has been in development since April 2015.
+
+Daydream BLue is available on GearVR, but development is not stopping. The team is continually expanding the game, as well as building out support for different devices. The dream of Richie and Shea is to develop the first cross platform online multiplayer VR game, allowing people to share moments, play games, and explore, across the world, and across devices!
 
 ## Features
 
