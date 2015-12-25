@@ -137,6 +137,12 @@ Developer
 **Jeff Hoagland**  
 Producer
 
+**Leonard Wedderburn**
+QA
+
+**Blair Scott**
+3D Modelling
+
 **Shawn Hibbler**  
 Musician
 
