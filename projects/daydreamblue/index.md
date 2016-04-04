@@ -7,6 +7,7 @@ RalphVR
 
 **Release Date:**  
 GearVR: Septemebr 24th, 2015
+<br>
 Oculus Rift: April, 2016
 
 **Platforms:**  
