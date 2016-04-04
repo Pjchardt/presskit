@@ -6,10 +6,11 @@
 RalphVR
 
 **Release Date:**  
-Septemebr 24th, 2015
+GearVR: Septemebr 24th, 2015
+Oculus Rift: April, 2016
 
 **Platforms:**  
-GearVR 
+GearVR, Oculus Rift
   
 
 **Website:**  
@@ -20,7 +21,7 @@ $9.99
 
 ## Description
 
-Enter a magical valley full of mystery, surprise, and an awesome robot buddy in the Gold Winner of the Oculus Mobile VR Jam. You will discover recipes to craft exciting new items, frantically shoot UFO invaders at night, and play fetch with your adorable robot pal! But don’t go alone. Connect with your friends online in the first multiplayer game with voice chat to ever be released on GearVR! and play games together, goof off around the fire, and show off your customized avatar. 
+Daydream Blue is like a camping simulator for VR...if the simulation was run by an eight year old. Enter the simulation to find a magical valley full of mystery, surprise, and an AWESOME ROBOT buddy. But you don’t have to do it alone! Connect with your friends from around the world online in Daydream Blue multiplayer.
 
 ## History
 
@@ -28,25 +29,24 @@ A lake and a robot for you and your friends…
  
 In early 2015 Richie and Shea started building a game for the Oculus Mobile VR Jam. They were about to both be unemployed, and so they decided to spend the last month of time they would be working together to create one last game. Richie and Shea bet it all on the jam, not to win but to put their hearts into something they were proud of, regardless of the outcome. 
 
-For almost a month Shea and Richie developed the core environment and mechanics, preparing for the first milestone in the jam.  But as the first deadline drew cloose, it nagged Richie and Shea that they were not taking advantage of the unique potential of VR. And perhaps more importantly, it just didn't feel like the game they really wanted to develop.
+Preparing for the first milestone in the jam, it nagged Richie and Shea that they were not taking advantage of the unique potential of VR. And perhaps more importantly, it just didn't feel like the game they really wanted to develop.
 
 So only days before the first submission, they built a prototype consisting of a grass field and a blue sky. Daydream Blue was born. 
 
-Richie and Shea barely made the first deadline with one concept art work for their new game. But in the end, they poured their hearts into developing Daydream Blue. The last day of submission, they said goodby and walked out of the office. Shea went out west to travel and Richie spent time looking for work. A month later, and Daydream BLue was named Gold WInner of the Oculus Jam. With $100,000, Shea and Richie were finnaly able to begin work on a full fledged game. 
+Richie and Shea barely made the first deadline with one concept art work for their new game. But in the end, they poured their hearts into developing Daydream Blue. The last day of submission, they said goodby and walked out of the office. Shea went out west to travel and Richie spent time looking for work. A month later, and Daydream Blue was named Gold Winner of the Oculus Jam. With $100,000, Shea and Richie were finnaly able to begin work on a full fledged game. 
 
-Daydream Blue is a virtual world, a place where you can customize yourself and your place in it.  It’s a space to be explored and discovered either alone or with friends. A place to build a fire and catch some fish.  Or play some golf.  Play fetch with your robot. Or just wish the clouds out of the sky. THe game has been in development since April 2015.
+Daydream Blue is a virtual world, a place where you can customize yourself and your place in it.  It’s a space to be explored and discovered either alone or with friends. A place to build a fire and catch some fish.  Or play some golf.  Play fetch with your robot. Or just wish the clouds out of the sky. The game has been in development since April 2015.
 
-Daydream BLue is available on GearVR, but development is not stopping. The team is continually expanding the game, as well as building out support for different devices. The dream of Richie and Shea is to develop the first cross platform online multiplayer VR game, allowing people to share moments, play games, and explore, across the world, and across devices!
+Daydream Blue is available on GearVR, but development is not stopping. The team is continually expanding the game, as well as building out support for different devices. The dream of Richie and Shea is to develop the first cross platform online multiplayer VR game, allowing people to share moments, play games, and explore, across the world, and across devices!
 
 ## Features
 
-> * Online Multiplayer with 3D spatialized Voice Chat and Room Invites - First ever on GearVR!
-> * One awesome robot buddy to play with, take care of, and hang out with
-> * AWESOME ROBOT BUDDY AI!!!
-> * Crafting: Discover new items, games, and more!
-> * Change the time of day in a customizable world
-> * Two updates a month, open development with community input 
-> * Immersive 3D spatialized soundscape using Oculus Audio SDK
+> * Online Multiplayer with 3D spatialized Voice Chat
+> * Multiplayer between Oculus Rift and GearVR
+> * Robot friend to play with: FEATURING SUPER AWESOME ROBOT AI!!!
+> * Crafting items to discover new games!
+> * Open ended play experience, more a playground than a game
+> * Immersive 3D soundscape based of childhood camping in Kentucky
 
 
 ## Videos
@@ -98,16 +98,19 @@ download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip
  > * "Gold Prize Winner, 2015 Oculus MobileVR GameJam." - June 4, 2015
  > * "Indie Prize Showcase, 2015 Casual Connect." - August 11, 2015
  > * "Smithsonian Arcade, 2016, Washington DC." - January 16th, 2016
+ > * "IMGA Finalist - Best VR Game, 2016, San Francisco, CA." - March, 2016
+ > * "Indie Mega Booth, 2016, PAX East - Boston, MA." - April 22nd-24th, 2016
+ > * "FILE Festival, 2016, Sao Paolo, Brazil." - 2016
 
 ## Selected Articles
 
 > * "Daydream Blue was one of eight projects in the jam to get a perfect score from me."  
 -- *Brad Herman, [Website](http://www.bradherman.com/home/hitchhikers-guide-to-the-metaverse/theoculusmobilevrjam2015-thoughtsfromajudge/)*
 
-> * "I love this little game, and can't wait to see what else the developer adds!"  
--- *GearVR Mini Game Reviews, [Website](http://gearvrreviews.blogspot.com/2015/05/gearvr-jam-2015-appexperiences-my.html)*
+> * "...Daydream Blue delighted us more and more the longer we spent with it."  
+-- *gizmag, [Website](http://www.gizmag.com/best-gear-vr-apps-games-2015/40839/)*
 
-> * "This is a game that rewards you for your curiosity" Daydram BLue named as one of Best Samsung Gear VR apps and games
+> * "This is a game that rewards you for your curiosity" Daydram Blue named as one of Best Samsung Gear VR apps and games
 -- *Trusted Reviews, [Website](http://www.trustedreviews.com/best-samsung-gear-vr-apps_round-up_Page-14)*
 
 > * "Talking With the Creators of the First True Mobile and Social Game, in VR"
