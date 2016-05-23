@@ -8,10 +8,12 @@ RalphVR
 **Release Date:**  
 GearVR: Septemebr 24th, 2015
 <br>
-Oculus Rift: April, 2016
+Oculus Rift: TBD
+<br>
+Daydream: TBD
 
 **Platforms:**  
-GearVR, Oculus Rift
+GearVR, Oculus Rift, Daydream
   
 
 **Website:**  
