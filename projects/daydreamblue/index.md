@@ -8,7 +8,7 @@ RalphVR
 **Release Date:**  
 GearVR: Septemebr 24th, 2015
 <br>
-Oculus Rift: TBD
+Oculus Rift: June 23rd, 2016
 <br>
 Daydream: TBD
 
@@ -20,7 +20,7 @@ GearVR, Oculus Rift, Daydream
 [www.daydreamblue.com](http://daydreamblue.com)
 
 **Regular Price:**  
-$9.99
+$4.99
 
 ## Description
 
